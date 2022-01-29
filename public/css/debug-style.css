@@ -1,0 +1,53 @@
+#debugrow{
+	height: 20vh;
+	overflow: scroll;
+}
+
+.innerdebugrow{
+	padding-top: 10px;
+}
+
+.smallpadding{
+	padding-right: 5px !important;
+}
+
+
+.icon-small{
+  font-size : 10px !important;
+}
+
+.btn-primary{
+    background-color: #00A9E2;
+    border-color: #00A9E2;
+}
+.btn-primary:hover{
+    cursor: pointer;
+    background-color: #0098cb;
+    border-color: #0098cb;
+}
+.btn-primary:focus {
+    color: #fff;
+    background-color: #0098cb;
+    border-color: #0098cb;
+    box-shadow: 0 0 0 0.25rem rgb(49 132 253 / 50%);
+}
+#myTab{
+    background-color: #00A9E2;
+}
+.nav-tabs .nav-link {
+    color: white;
+    opacity: 0.5;
+}
+
+.nav-tabs .nav-link.active{
+    background-color: #00A9E2;
+    color: white;
+    opacity: 1;
+    border: none;
+}
+
+.menus .btn{
+    width: 40px;
+    height: 38px;
+}
+
